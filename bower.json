@@ -1,0 +1,17 @@
+{
+  "name": "emp-mgmt",
+  "description": "Employee managment soft",
+  "main": "",
+  "authors": [
+    "Lavan Sri Chandrahasan <LA1Studios@users.noreply.github.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
